@@ -32,7 +32,7 @@ App link = https://breastcancerdetectap.streamlit.app
 
 1. **Clone this repository**  
 ```bash
-git clone https://github.com/your-username/breast-cancer-predictor.git
+git clone https://github.com/alimoazzam123/Breast-Cancer.git
 cd breast-cancer-predictor
 ```
 
