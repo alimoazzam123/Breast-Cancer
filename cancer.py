@@ -113,10 +113,6 @@ def main():
             st.success(f"Your prediction result is: {prediction[0]}\n{result}")
             user_data["Prediction"] = prediction[0]
 
-        for key, value in user_data.items():
-            if isinstance(value, np.ndarray):
-                user_data[key] = value.tolist()
-
 if __name__ == "__main__":
     main()
 
